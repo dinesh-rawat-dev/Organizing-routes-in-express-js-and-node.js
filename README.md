@@ -62,3 +62,8 @@ To run:-
 For more information you may visit:-
 
 http://cj7.info/blog/organizing-routes-in-express-js-and-nodejs
+
+Installation:-
+
+git clone https://github.com/dinesh-rawat/Organizing-routes-in-express-js-and-node.js.git
+sudo node ./bin/www
